@@ -47,7 +47,7 @@ Level II Support
 <img src="https://i.imgur.com/q4DiGZc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents are given roles according to the departments to which they have access. Each position has a set of permissions that agents assigned to that role in relation with a department they have access to can tick or uncheck.
 </p>
 <br />
 
