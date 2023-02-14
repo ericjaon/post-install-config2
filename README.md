@@ -64,14 +64,26 @@ Registration Required: Require registration and login to create tickets
 <img src="https://i.imgur.com/tyV0WOE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+anonymous users now have the ability to create tickets, despite whether or not they're in the sysytem.
 </p>
 <br />
+Configure SLA
+
+
+Admin Panel -> Manage -> SLA
+
+Sev-A (1 hour, 24/7)
+
+Sev-B (4 hours, 24/7)
+
+Sev-C (8 hours, business hours)
+
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tyV0WOE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An SLA serves as a written agreement between the party receiving the service's advantages and the party providing it. Traditional SLAs specify service expectations between vendors and consumers, but they can also be used within the same organization between divisions. And even if the SLA may be as little as a few phrases or as long as full pages' worth of clauses and requirements, they are always an important part of contemporary service contracts. It's also critical to remember that SLAs should evolve and adapt to accommodate changing business requirements rather than being viewed as being unchangeable. In light of this, SLAs ought to provide a precise framework for implementing changes or alterations during the term of the contract.
 </p>
 <br />
