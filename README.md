@@ -106,9 +106,9 @@ Password Reset
 <img src="https://i.imgur.com/4dCjyoa.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-A help topic is a separate document in a user guide or software manual, which is created using a modular approach often called "topic-based authoring" in the technical communication area. If you think about an ordinary document created with office text editor, the notion of a topic maps to the notion of a "section" or a "sub-section".
+In a user guide or software manual, a help subject is a standalone document that is developed using a modular process frequently referred to as "topic-based authoring" in the technical communication field. The idea of a topic corresponds to the idea of a "section" or "sub-section" in a typical document generated using an office text editor.
 
-Typically, a help topic is a pretty small chunk of content that focuses on a single subject and can be consumed separately from the remaining part of the same user manual. Another difference is that an office document is linear, while a topic-based manual is a non-linear set of separate documents (help topics) with links and navigation. A nice benefit the topic-based approach gives you is the ability to re-use topics in multiple places of a user manual, as well as assembling several different outputs from the same topic set.
+A help topic is typically a relatively brief section of text that concentrates on a specific issue and may be read independently of the rest of the user manual. A topic-based manual is a non-linear collection of individual papers (help topics) with links and navigation, whereas an office document is linear.
 </p>
 <br />
 
